@@ -1,6 +1,8 @@
 # Pet Store
 This repository holds the codebase for a pet store website. A simple intuitive user interface project. Crafted with HTML5, CSS3, Font Awesome And Bootstrap Framework.
 
+Use the attached starter.html file to come up with your next design.
+
 # How to contribute
 1. Clone this repository
 2. Checkout a branch - DO NOT CODE ON MAIN BRANCH
